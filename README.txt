@@ -30,4 +30,3 @@ Chess game! I like chess and I like coding. Need I say more?
   		Chess has complex game logic. Each piece has a different way to move. There
   		are special situations like en passant, check, checkmate, and castling. It
 		was a little tricky to implement this.
-		
