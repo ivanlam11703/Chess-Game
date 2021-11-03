@@ -22,11 +22,11 @@ Chess game! I like chess and I like coding. Need I say more?
 
 3. Using inheritance/subtyping for dynamic dispatch.
 		I used an abstract class Piece and extended the different pieces from this
-		class. This is appropriate because the different pieces share a lot of
-		instance variables and methods. I chose abstract class over interface, 
-		because the implementation of some methods is the same for all classes.
+		class. The different pieces share a lot ofinstance variables and methods. 
+		I chose abstract class over interface, because the implementation of some
+		methods is the same for all classes.
 		
-4. Complex game logic.
+4. Appropriately implementing game logic.
   		Chess has complex game logic. Each piece has a different way to move. There
   		are special situations like en passant, check, checkmate, and castling. It
 		was a little tricky to implement this.
